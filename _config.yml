@@ -1,7 +1,7 @@
-title: blogspace
+title: theworkingmethods.com
 description: 
 google_analytics: 
-show_downloads: true
+show_downloads: False
 theme: jekyll-theme-hacker
 
 gems:
